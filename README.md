@@ -41,6 +41,7 @@ REQUERIMIENTOS
 
 Calendario de presentaciones:
 
+![1](https://user-images.githubusercontent.com/84251533/120123443-22d5d580-c16c-11eb-8b09-5716f2b917f3.png)
 
 
 Roles Del Proyecto:
@@ -54,12 +55,19 @@ tengan las herramientas necesarias para poder realizar el trabajo correctamente.
 
 - Scrum Team: Es el grupo encargado del desarrollo de los requerimientos específicos del propietario o encargado del producto a desarrollar.
 
-https://ibb.co/DVtH9J5
+![2](https://user-images.githubusercontent.com/84251533/120123451-308b5b00-c16c-11eb-9644-895faa149fc3.png)
 
 Sprint
+
 Cuando a este nos referimos, sabemos que se trata de una caja de tiempo de Scrum, la duración es de 1 a 6 semanas en las que se trabaja en la creación de los entregables, netamente nos referimos al equipo de trabajo. Este inicia con la creación de una reunión para así poder planificar el sprint, esta reunión en su defecto tiene una duración de 8 horas de trabajo, para realizar un sprint de 4 semanas, en este periodo de tiempo se realizan las historias de trabajo de usuario y de acuerdo a la prioridad se incluyen el SprintBacklog, esto es el listado de tareas que se harán.
 
+![3](https://user-images.githubusercontent.com/84251533/120123453-38e39600-c16c-11eb-8266-3d5803c73db7.png)
+
 Estimaciones de horas de los Sprint
+
+![4](https://user-images.githubusercontent.com/84251533/120123455-3e40e080-c16c-11eb-9306-a02fae7ff9f6.png)
+
+
 
 Link de Calendario de Github: https://github.com/users/EnriqueIsales/projects/1
 
