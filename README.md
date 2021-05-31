@@ -68,6 +68,12 @@ Estimaciones de horas de los Sprint
 ![4](https://user-images.githubusercontent.com/84251533/120123455-3e40e080-c16c-11eb-9306-a02fae7ff9f6.png)
 
 
+Calendario de reuniones 
+
+![5](https://user-images.githubusercontent.com/84251533/120124874-992a0600-c173-11eb-9c93-61391cae1773.png)
+
+
+
 
 Link de Calendario de Github: https://github.com/users/EnriqueIsales/projects/1
 
